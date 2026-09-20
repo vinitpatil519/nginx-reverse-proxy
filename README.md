@@ -1,4 +1,4 @@
-# Example · Nginx reverse proxy
+# Nginx reverse proxy
 
 Nginx in front of two backend replicas. One published port, load balancing over
 Docker's embedded DNS, health-gated startup, per-IP rate limiting.
