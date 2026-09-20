@@ -74,6 +74,5 @@ for i in $(seq 1 8); do curl -s localhost:8080/ | grep -o '"replica": "[^"]*"'; 
 ```bash
 docker compose down
 ```
-#   n g i n x - r e v e r s e - p r o x y 
  
  
